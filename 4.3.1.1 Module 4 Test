@@ -1,0 +1,23 @@
+Module 4 Test
+1.	4
+2.	is illegal
+3.	9
+4.	they can be indexed and sliced like list
+5.	def fun():
+6.	The None value can be assigned to variables
+7.	16
+8.	21
+9.	print(k[0])
+10.	2
+11.	may be involked without any argument, or with just one
+12.	def fun(a=0, b=0):
+13.	two
+14.	error
+15. error
+16.	4
+17.	4
+18.	has to be imported before use
+19.	6
+20.	error
+-------------------------
+90%
