@@ -1,0 +1,30 @@
+1.	nums and vals are different names of the same list
+2.	True
+3.	21
+4.	asepbsepc
+5.	the code is erroneous (the dict object has no vals() method)
+6.	!=
+7.	is erroneous
+8.	the snippet will enter an infinite loop, printing one star per line
+9.	fun(b=1)
+10.	the argument's name specified along with its value
+11.	0.2
+12.	will cause a runtime error
+13.	0
+14.	4
+15.	2
+16.	three
+17.	0
+18.	one
+19.	[1,1,1,2]
+20.	is equel 0
+21.	2.0
+22.	is illegal
+23.	63
+24.	1,1,2
+25.	in
+26.	zero
+27.	4
+28.	[0,1,4,9]
+29.	nums and vals are different names of the same list
+30.	0 1
